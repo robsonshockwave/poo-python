@@ -13,3 +13,5 @@ Also, other concepts, such as:
 - **Aggregation**
 - **Interfaces**
 - **MVC (model-view-controller)**
+
+<h6>Feito com ♥ por Robson!</h6>
